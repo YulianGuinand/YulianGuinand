@@ -1,10 +1,6 @@
 # 💫 About Me:
 👋 Salut ! Je m'appelle Yulian Guinand, étudiant en développement <br>en alternance. Passionné par le web et curieux de tout ce qui touche à la technologie, je travaille activement sur des projets variés, que ce soit en React Native, Next.js, ou avec des outils de gestion de bases de données comme Supabase.<br><br>🚀 Mes projets GitHub reflètent mon parcours d'apprentissage et d'expériences en alternance, en explorant des domaines comme le front-end, la cybersécurité, et le développement d'applications interactives.<br><br>💡 Toujours à la recherche de nouvelles compétences et d'opportunités de collaboration pour construire ensemble des solutions innovantes.
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/YulianGuinand/YulianGuinand/output/snake.svg" alt="Snake animation" />
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cr0noxx) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heyy.yulian) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yulianguinand) 
 
