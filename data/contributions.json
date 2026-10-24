@@ -1,22 +1,22 @@
 {
   "username": "YulianGuinand",
-  "generated_at": "2026-10-23T11:44:49Z",
+  "generated_at": "2026-10-24T11:07:39Z",
   "range": {
     "start": "2025-10-19",
+    "end": "2026-10-24"
+  },
+  "total_contributions": 253,
+  "active_days": 66,
+  "avg_per_active_day": 3.8,
+  "current_streak": {
+    "length": 18,
+    "start": "2026-10-06",
     "end": "2026-10-23"
   },
-  "total_contributions": 274,
-  "active_days": 74,
-  "avg_per_active_day": 3.7,
-  "current_streak": {
-    "length": 17,
-    "start": "2026-10-06",
-    "end": "2026-10-22"
-  },
   "longest_streak": {
-    "length": 17,
+    "length": 18,
     "start": "2026-10-06",
-    "end": "2026-10-22"
+    "end": "2026-10-23"
   },
   "best_day": {
     "date": "2026-09-23",
@@ -25,11 +25,11 @@
   "monthly": [
     {
       "month": "2025-10",
-      "total": 8
+      "total": 0
     },
     {
       "month": "2025-11",
-      "total": 17
+      "total": 16
     },
     {
       "month": "2025-12",
@@ -37,11 +37,11 @@
     },
     {
       "month": "2026-01",
-      "total": 13
+      "total": 10
     },
     {
       "month": "2026-02",
-      "total": 45
+      "total": 35
     },
     {
       "month": "2026-03",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-10",
-      "total": 31
+      "total": 32
     }
   ],
   "days": [
@@ -124,13 +124,13 @@
     },
     {
       "date": "2025-10-28",
-      "count": 4,
-      "level": 1
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2025-10-29",
-      "count": 4,
-      "level": 1
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2025-10-30",
@@ -234,8 +234,8 @@
     },
     {
       "date": "2025-11-19",
-      "count": 1,
-      "level": 1
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2025-11-20",
@@ -574,13 +574,13 @@
     },
     {
       "date": "2026-01-26",
-      "count": 1,
-      "level": 1
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2026-01-27",
-      "count": 2,
-      "level": 1
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2026-01-28",
@@ -624,8 +624,8 @@
     },
     {
       "date": "2026-02-05",
-      "count": 2,
-      "level": 1
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2026-02-06",
@@ -689,8 +689,8 @@
     },
     {
       "date": "2026-02-18",
-      "count": 6,
-      "level": 1
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2026-02-19",
@@ -709,13 +709,13 @@
     },
     {
       "date": "2026-02-22",
-      "count": 1,
-      "level": 1
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2026-02-23",
-      "count": 1,
-      "level": 1
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2026-02-24",
@@ -1924,6 +1924,11 @@
     },
     {
       "date": "2026-10-23",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-10-24",
       "count": 0,
       "level": 0
     }
